@@ -15,51 +15,51 @@ Full-Audit is a structured security and quality review methodology spanning 13 l
 Layer: 1. Frontend
 Focus: User interface
 What It Checks: Hidden vulnerabilities in UI/UX that expose backend
-────────────────────────────────────────
+
 Layer: 2. Backend
 Focus: Server logic
 What It Checks: Business rules, data validation, error handling
-────────────────────────────────────────
+
 Layer: 3. Infrastructure
 Focus: Servers & networks
 What It Checks: Docker, deployments, network configuration
-────────────────────────────────────────
+
 Layer: 4. Data
 Focus: Databases
 What It Checks: SQL injection, data leaks, access control
-────────────────────────────────────────
+
 Layer: 5. Security
 Focus: Overall posture
 What It Checks: Authentication, authorization, encryption
-────────────────────────────────────────
+
 Layer: 6. API
 Focus: Interfaces
 What It Checks: Endpoints, rate limits, input validation
-────────────────────────────────────────
+
 Layer: 7. Domain
 Focus: Business context
 What It Checks: Industry rules, compliance requirements
-────────────────────────────────────────
+
 Layer: 8. Business Logic
 Focus: Operations
 What It Checks: Revenue flows, discount logic, edge cases
-────────────────────────────────────────
+
 Layer: 9. Legal
 Focus: Compliance
 What It Checks: LGPD, GDPR, CCPA, contractual obligations
-────────────────────────────────────────
+
 Layer: 10. Pentest
 Focus: Attack simulation
 What It Checks: Penetration testing, vulnerability exploitation
-────────────────────────────────────────
+
 Layer: 11. Fuzzing
 Focus: Random inputs
 What It Checks: Boundary testing, unexpected data injection
-────────────────────────────────────────
+
 Layer: 12. Content
 Focus: Multimedia
 What It Checks: Chat, maps, video, images — multimodal risks
-────────────────────────────────────────
+
 Layer: 13. Duplication
 Focus: Code quality
 What It Checks: Copy-paste code, maintainability, tech debt
